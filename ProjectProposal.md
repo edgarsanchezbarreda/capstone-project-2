@@ -18,4 +18,4 @@
     3. I will need to secure user authentication data like email and password.
     4. The app will have a few features, such as creating an account, recommending a macronutrient profile, creating and saving multiple workout routines, editing their generated workout routine as the user wishes, the ability to watch video tutorials for each exercise, and an interface where users can track their progess and write notes regarding their workout for each day.
     5. The user flow will consist of creating a profile, answering the fitness questionnaire which consists of questions regarding fitness goals and style of workout routine they are looking for, then viewing their workout routine and having the option to edit or leave the program as is, and having an interface where the user can track their progress and write notes when they work out.
-    6. The
+    6. The feature that would make this app more than a CRUD app is going to be the different graphs and visualizations added to the UI that track a user's progess related to their fitness goals i.e. weight loss/gain, strength gain and workouts completed.
